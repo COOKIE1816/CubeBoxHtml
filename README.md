@@ -13,3 +13,23 @@ Here are basic tips
 File management, black BIOS, automatical cleanup, auto backup-repair, run as Emulator, fastboot
 ### Make sure this is unchecked
 Disable security, Auto boot to CubeBox, ignore BSOD, ignore all errors
+## Getting it to work
+The file RUN may help you
+# For developers of anything
+Experimental features
+## Virtual desktop creation
+* Open start menu
+* Open CubeBoxDev
+* Select RUN
+* Enter 'vm-login' and hit OK
+* Enjoy!
+### Risks
+* No risks to broke computer here :)
+## Command prompt
+Be careful!
+### Disclaimer
+We aren't responsible for a hacker attack or computer demage!
+### Help for commands
+See. cmdhelp.md
+
+Or just use hlp? command in command prompt
