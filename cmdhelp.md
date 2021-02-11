@@ -110,3 +110,9 @@ We have this actions:
 ## What is a SUBJECT argument?
 SUBJECT is a path of any file
 Etc. /filesystem/file.txt
+# BAN
+Ban specific other computer that's connected on same wire
+## Syntax
+ban [name] [true:false]
+## Syntax to unban
+ban [name] false
