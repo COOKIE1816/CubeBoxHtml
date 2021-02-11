@@ -76,3 +76,37 @@ There are:
 * CBINF_DEVICE_MODEL
 * CBINF_DEVICE_TYPE
 * CBINF_DEVICE_STATUS
+* VAR_TYPE
+* BIN_TYPE
+# BT
+Bluetooth 
+## Syntax
+bt [device] [action] [subject]
+## Action
+We have this actions:
+* connect
+* disconnect
+* send
+* recive
+* ping
+* off
+* on
+* pair
+* info
+* w
+## This is actions what doesn't need subject:
+* disconnect
+* recive
+* off
+* on
+* w
+* ping
+* info
+## There you need to set 'device' to '%self':
+* disconnect
+* off
+* on
+* w
+## What is a SUBJECT argument?
+SUBJECT is a path of any file
+Etc. /filesystem/file.txt
