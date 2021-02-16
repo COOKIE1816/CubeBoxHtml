@@ -15,7 +15,7 @@ We have 4 numbers from 0 to 1.
 
 Structure of every four-number group of numbers is like this:
 
-Read, Write, Overwrite properties
+Read, Write, Overwrite properties, Delete
 
 Setting all numbers to 0 the file will be automatically regenerated
 # ADD
