@@ -6,3 +6,14 @@ Behavior files are made in Arduino. They have ```.ino``` file extension. They ar
 
 Files can be modified but changes will be visible after disconnecting from power supply and from emergency battery. 
 > Don't forget to save your work! 
+
+Now I will explain why are that files so important. 
+
+```HwConfig.ino``` contains basic instructions how HW have to behave.
+```emergency.ino``` is used when electricity stop working. It's file full of instructions how to save unsaved work without power supply.
+```int.ino``` is file full of very important variables.
+```temp.tmp``` are informations. Running time, HW age, HW versions, names...
+<br>
+<br>
+<br>
+Now it's time to vhd and vhdx files
