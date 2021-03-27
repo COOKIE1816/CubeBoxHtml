@@ -50,3 +50,21 @@ You can fix it following these instructions:
 * Shutdown
 ### Troubleshooting didn't work? It's time to plan B
 Remember. You're just emulating CubeBox... So use windows file explorer :)
+# Hardware
+> CubeBox import behavior from ```HwConfig.ino``` file that's stored in ```/system/hw/``` directory.
+Hardware is coded in Arduino. Here's default code:
+```
+void setup() {
+	pinMode(1, OUTPUT);
+	pinMode(2, OUTPUT);
+	pinMode(3, OUTPUT);
+	pinMode(4, OUTPUT);
+	pinMode(13, OUTPUT);
+}
+```
+## Wires, wires, wires!
+* 1 (fan) = out
+* 2 (light decoration) = out
+* 3 (identication light) = out
+* 4 (motherboard lightning) = out
+* 13 (buzzer) = out
