@@ -17,3 +17,5 @@ Now I will explain why are that files so important.
 <br>
 <br>
 Now it's time to vhd and vhdx files
+# Pages
+[cookiebasics](cookiebasics.md)
