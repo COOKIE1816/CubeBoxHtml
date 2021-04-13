@@ -19,3 +19,10 @@ Now I will explain why are that files so important.
 Now it's time to vhd and vhdx files
 # Pages
 [cookiebasics](cookiebasics.md)
+
+
+
+
+
+
+Look how to [create robot](558588.md)!
