@@ -25,6 +25,7 @@ If you have 12 and older [XNG version](xngvers.md) use this commands:
 ```
 run \uttl\wct\a44o\command\xng\appt\xng12_a0ld\XNG.cmd
 ```
+
 If newest:
 ```
 runas \uttl\wct\a440\command\xng\appt\xnv13_New\XNG.cmd -commandScript \here
