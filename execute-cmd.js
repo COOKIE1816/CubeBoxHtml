@@ -1,13 +1,19 @@
+//memory zone
 mem = {
 	//void
 }
 
+val = {
+	//void
+}
+
+//function zone
 function output(string){
 	alert(string);
 }
 
 
-
+//command zone
 function com(command,arg1,arg2,arg3,arg4,arg5,arg6){
 	if (command = "print"){
 		output(arg1);
